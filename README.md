@@ -1,0 +1,1 @@
+# Hand-Parts-Detection-Using-OpenCV-And-Mediapipe
